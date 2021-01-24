@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<h2> <a href="https://tinyletter.com/mohsyed" style="color:red;">Subscribe for updates</a> </h2>
+<h2> <a href="https://tinyletter.com/mohsyed" style="color:#F13F1D;">Subscribe for updates</a> </h2>
