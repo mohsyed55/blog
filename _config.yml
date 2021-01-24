@@ -4,7 +4,7 @@ author:
   email: mohsyed55@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A place for sharing my ideas
-  <a href="https://tinyletter.com/mohsyed">Subscribe for updates</a>
+  
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
