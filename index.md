@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<a href="https://tinyletter.com/mohsyed">Subscribe for updates</a>
+<h2> <a href="https://tinyletter.com/mohsyed">Subscribe for updates</a> </h2>
