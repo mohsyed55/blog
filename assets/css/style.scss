@@ -63,6 +63,39 @@
     }
 }
 
+/* Style the blog post list */
+.custom-post-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-post-list li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.custom-post-list .post-date {
+    color: #777;
+    font-size: 14px;
+    min-width: 120px; /* Aligns all dates */
+    font-family: monospace; /* Gives a clean, developer-style feel */
+}
+
+.custom-post-list .post-title {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.custom-post-list .post-title:hover {
+    color: #0077cc; /* Change hover color */
+}
+
 
 
 
