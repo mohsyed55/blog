@@ -27,19 +27,6 @@
     border-bottom: none !important;
     box-shadow: none !important;
 }
-/* Remove the hamburger menu */
-.site-nav {
-    display: flex !important;
-    flex-direction: row !important;
-    position: static !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-}
-
-/* Make sure nav links are always visible */
-.site-nav .trigger {
-    display: none !important;
-}
 
 
 
