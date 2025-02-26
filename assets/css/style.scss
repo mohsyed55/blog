@@ -28,13 +28,41 @@
     box-shadow: none !important;
 }
 .site-footer {
-    font-size: 14px !important;  /* Adjust size as needed */
+    font-size: 10px !important;  /* Adjust size as needed */
 }
 
-.post-list h2 {
-    font-size: 18px !important;
+/* Reduce font size of post list titles on Blog page */
+.post-list .post-title, .post-list h2 {
+    font-size: 14px !important;  /* Adjust as needed */
     font-weight: normal;
 }
+
+/* Reduce font size of post metadata (date, tags, etc.) */
+.post-list .post-meta {
+    font-size: 12px !important;
+    color: #777;  /* Light gray for subtle appearance */
+}
+
+/* Reduce font size of post excerpts */
+.post-list .post-content, .post-list p {
+    font-size: 14px !important;
+}
+
+/* Ensure styles apply across all screens */
+@media screen and (max-width: 768px) {
+    .post-list .post-title, .post-list h2 {
+        font-size: 14px !important;
+    }
+    
+    .post-list .post-meta {
+        font-size: 11px !important;
+    }
+
+    .post-list .post-content, .post-list p {
+        font-size: 13px !important;
+    }
+}
+
 
 
 
