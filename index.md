@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![Home page hero image](/assets/Bannihal_image.jpg)
