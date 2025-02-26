@@ -8,7 +8,7 @@
 layout: home
 ---
 Hey there! I'm Mohamed Syed, an engineer trying to build useful products.
-I'm from Madurai and currently living in Bengaluru, India.
+I’m from Madurai and now based in Bengaluru.
 You can write to me at <a href="mailto:mohsyed55@gmail.com">mohsyed55@gmail.com</a>
 
 ![Home page hero image](/assets/Bannihal_image.jpg)
