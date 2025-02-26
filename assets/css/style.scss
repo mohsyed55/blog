@@ -5,6 +5,23 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+.site-nav {
+    display: flex;
+    gap: 20px;  /* Adds space between links */
+    font-weight: bold;
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #333; /* Adjust the color */
+    padding: 8px 12px;
+    transition: color 0.3s ease-in-out;
+}
+
+.site-nav a:hover {
+    color: #0073e6; /* Change to any highlight color */
+}
+
 .site-header {
     border-bottom: none !important;
     box-shadow: none !important;
