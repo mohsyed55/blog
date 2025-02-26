@@ -5,3 +5,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+.site-header {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
